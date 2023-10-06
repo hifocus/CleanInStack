@@ -1,6 +1,6 @@
 > **Use at own risk**
 
-File Downloaded from: https://www.dropbox.com/s/iampc7prd9y7cqf/oneinstack-full.tar.gz?dl=1
+File Downloaded from: https://www.dropbox.com/s/iampc7prd9y7cqf/oneinstack-full.tar.gz?dl=1    
 MD5: `b2947bac8cb66d54fcd90d30e406598f`
 
 Before installation, block the below domains at `/etc/hosts`:
@@ -18,7 +18,7 @@ md5sum cleaninstack-full.tar.gz
 
 # if the result is b2947bac8cb66d54fcd90d30e406598f
 tar -xzf cleaninstack-full.tar.gz
-./oneinstack/vhost.sh
+./oneinstack/install.sh
 ```
 
 Reference: https://github.com/oneinstack/oneinstack/issues/487
