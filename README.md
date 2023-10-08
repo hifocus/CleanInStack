@@ -6,7 +6,7 @@ MD5: `b2947bac8cb66d54fcd90d30e406598f`
 Before installation, block the below domains at `/etc/hosts`:
 
 ```
-0.0.0.0 mirrors.linuxeyes.com
+0.0.0.0 mirrors.linuxeye.com
 0.0.0.0 mirrors.oneinstack.com
 ```
 
